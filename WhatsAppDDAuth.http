@@ -1,0 +1,6 @@
+@WhatsAppDDAuth_HostAddress = http://localhost:5062
+
+GET {{WhatsAppDDAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
